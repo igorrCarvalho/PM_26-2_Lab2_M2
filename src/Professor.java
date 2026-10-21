@@ -43,7 +43,7 @@ public abstract class Professor {
 	/**
 	 * Percentual de horas extraclasse adicionais sobre as horas-aula.
 	 */
-	private static final double EXTRA_CLASSE = 0.2;
+	protected static final double EXTRA_CLASSE = 0.2;
 	/**
 	 * Quantidade média de semanas por mês.
 	 */
